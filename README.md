@@ -12,7 +12,7 @@ Google Colab to convert an atomic model of a protein into a series of 3D printab
 ## Limitations
 * Support for proline is implemented but not yet properly tested
 
-## Example print
+## Example print of a single 33 aa alpha-helix
 
 Amino acids                |  Backbones
 :-------------------------:|:-------------------------:
