@@ -16,8 +16,11 @@ Google Colab to convert an atomic model of a protein into a series of 3D printab
 
 33 amino acid alpha helix, backbone in white, amino acids in orange
 ![IMG_20230714_140722-EDIT](https://github.com/stefanhuber1993/ColabProteinPrint/assets/16330304/8a745b9b-4086-485f-8b5e-9c05a8b3e5e4)
-![aa](https://github.com/stefanhuber1993/ColabProteinPrint/assets/16330304/78e5500b-7e35-451f-838c-ffb4094e49fe)
-![bb](https://github.com/stefanhuber1993/ColabProteinPrint/assets/16330304/80d59e9c-a385-49d3-8680-d9ba65908b8c)
+
+
+Amino acids                |  Backbones
+:-------------------------:|:-------------------------:
+![aa](https://github.com/stefanhuber1993/ColabProteinPrint/assets/16330304/78e5500b-7e35-451f-838c-ffb4094e49fe) | ![bb](https://github.com/stefanhuber1993/ColabProteinPrint/assets/16330304/80d59e9c-a385-49d3-8680-d9ba65908b8c)
 
 
 
