@@ -1,4 +1,4 @@
-# ColabProteinPrint
+# ColabProteinPrint v0.1
 Google Colab to convert an atomic model of a protein into a series of 3D printable stl files.
 
 ## Features
