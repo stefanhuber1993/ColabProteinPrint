@@ -10,7 +10,7 @@ Google Colab to convert an atomic model of a protein into a series of 3D printab
 * Parametric model with customizable bond thicknesses and tolerances
 
 ## Limitations
-* Support for proline is implemented but yet ntested
+* Support for proline is implemented but not yet properly tested
 
 ## Example print
 
