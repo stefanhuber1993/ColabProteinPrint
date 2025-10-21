@@ -1,6 +1,10 @@
 # ColabProteinPrint v0.1
 Google Colab to convert an atomic model of a protein into a series of 3D printable stl files.
 
+## Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefanhuber1993/ColabProteinPrint/blob/main/ColabProteinPrint_OpenSCAD_Colab_v0_1.ipynb)
+
 ## Features
 * PDB input file is split in backbone and amino acid parts
 * Amino acids are oriented in a standardised way for 3D printing
